@@ -4,5 +4,11 @@ Aqui você encontrará exercícios de Orientação a Objetos.
 
 - [Caneta](src/ExercicioCanetaGuanabara)
 
+- [Filme](src/ExercicioObjetoFilme)
+
+- [Classes e Atributos](src/ExerciciosProfLoiane)
+
+  
+  
   
 
